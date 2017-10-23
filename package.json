@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brad Traversy",
+  "author": "ahmad solehin",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
